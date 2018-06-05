@@ -21,6 +21,7 @@ def add_colors
   ]
   rainbow_colors << "green"
   rainbow_colors << "blue"
-  return rainbow_colors
+  puts rainbow_colors
 end
 change_rainbow_colors
+add_colors
